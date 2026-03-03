@@ -97,6 +97,7 @@ Billed vs Paid Amounts by Claim Type
 <img width="1887" height="891" alt="image" src="https://github.com/user-attachments/assets/1091f272-335b-4ef2-90ae-42b4905ae4a5" />
 
 Paid Ratio by Claim Type and Provider
+
 <img width="1821" height="931" alt="image" src="https://github.com/user-attachments/assets/36dad16b-b895-4fff-84f4-890bd63409ca" />
 
 Top CPT & ICD Codes by Cost and CPT Codes with Highest Average Cost per Claim
